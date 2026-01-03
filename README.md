@@ -1,15 +1,17 @@
-E-Commerce Retail Analytics Dashboard ( TABLEAU LINK:- https://public.tableau.com/views/Product_Demand_Analysis_/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+##E-Commerce Retail Analytics Dashboard 
+( TABLEAU LINK:- https://public.tableau.com/views/Product_Demand_Analysis_/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 A comprehensive analysis of retail transaction data to identify revenue patterns, customer behavior, and market expansion opportunities using Python and Tableau.
 Project Overview
 This project analyzes over 400,000 retail transactions from 2011 to provide actionable insights for business decision-making. I cleaned the raw data, performed exploratory analysis, and created interactive Tableau dashboards to answer key business questions from executive stakeholders.
 Dataset
 
-Records: 406,830 transactions
-Time Period: 2011
-Geography: 37 countries (excluding United Kingdom)
-Source: Online retail store transactions
+##Records: 406,830 transactions
+##Time Period: 2011
+##Geography: 37 countries (excluding United Kingdom)
+##Source: Online retail store transactions
 
-Business Questions Answered
+##Business Questions Answered
 Question 1: Revenue Time Series Analysis
 The CEO wanted to view monthly revenue trends for 2011 to understand seasonal patterns and forecast for the next year. I created a time series visualization showing revenue fluctuations throughout the year.
 
@@ -25,11 +27,11 @@ Question 4: Geographic Demand Analysis
 The CEO needed a single-view visualization of product demand across all countries to identify expansion opportunities.
 Tools & Technologies
 
-Python: Data cleaning and preprocessing (Pandas, NumPy)
-Tableau: Interactive dashboard creation and data visualization
-Jupyter Notebook: Analysis and documentation
+##Python: Data cleaning and preprocessing (Pandas, NumPy)
+##Tableau: Interactive dashboard creation and data visualization
+##Jupyter Notebook: Analysis and documentation
 
-Key Insights
+##Key Insights
 
 Identified top customer contributing nearly $280K in revenue
 Netherlands emerged as the market with highest demand (284,662 units)
