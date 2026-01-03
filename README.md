@@ -39,3 +39,11 @@ Netherlands emerged as the market with highest demand (284,662 units)
 Analyzed revenue patterns across 37 countries to support expansion strategy
 Created executive-ready dashboards for CMO and CEO decision-making
 
+├── data/
+│   └── retail_data.csv
+├── notebooks/
+│   └── data_cleaning_analysis.ipynb
+├── dashboards/
+│   └── Product_Demand_Analysis.twbx
+└── README.md
+
